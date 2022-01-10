@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.chanakya.E2EProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Testing the contacts List(failed)">
+    <classes>
+      <class name="org.chanakya.E2EProject.HomePageTestCase3">
+        <methods>
+          <include name="init"/>
+          <include name="clickContactsLink"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.chanakya.E2EProject.HomePageTestCase3 -->
+    </classes>
+  </test> <!-- Testing the contacts List(failed) -->
+</suite> <!-- Failed suite [Suite] -->

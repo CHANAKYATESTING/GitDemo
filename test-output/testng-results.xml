@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T21:32:11 AEST" name="Default suite" finished-at="2022-01-06T21:32:27 AEST" duration-ms="16843">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T21:32:11 AEST" name="Default test" finished-at="2022-01-06T21:32:27 AEST" duration-ms="16843">
+      <class name="org.chanakya.E2EProject.HomePageTestCase3">
+        <test-method is-config="true" signature="init()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase3@1cd201a8]" started-at="2022-01-06T21:32:11 AEST" name="init" finished-at="2022-01-06T21:32:19 AEST" duration-ms="8052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="clickContactsLink()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase3@1cd201a8]" started-at="2022-01-06T21:32:19 AEST" name="clickContactsLink" finished-at="2022-01-06T21:32:27 AEST" duration-ms="7839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContactsLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase3@1cd201a8]" started-at="2022-01-06T21:32:27 AEST" name="tearDown" finished-at="2022-01-06T21:32:27 AEST" duration-ms="806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.chanakya.E2EProject.HomePageTestCase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

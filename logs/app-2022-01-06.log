@@ -1,0 +1,234 @@
+[INFO ] 2022-01-06 10:57:53.168 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 10:57:53.168 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 10:57:53.218 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 10:57:53.218 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 10:57:53.220 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 10:57:53.220 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 10:57:53.154 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 10:57:53.225 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 10:57:53.252 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 10:58:14.906 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 10:58:14.912 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 10:58:14.915 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 10:58:15.046 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 10:58:51.133 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 10:58:51.207 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 10:58:51.819 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 10:58:52.322 [TestNG-tests-3] Listeners - Failed execution in TestCase clickContactsLink
+[INFO ] 2022-01-06 10:58:54.216 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 10:58:54.854 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 10:58:56.050 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 10:59:00.326 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 10:59:01.386 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 16:10:58.976 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 16:10:58.976 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 16:10:58.976 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 16:10:58.985 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 16:10:58.985 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 16:10:58.985 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 16:10:58.986 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 16:10:58.987 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 16:10:58.986 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 16:11:09.116 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 16:11:10.151 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 16:11:13.415 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 16:11:13.430 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 16:11:41.175 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 16:11:41.512 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 16:11:42.377 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 16:11:43.304 [TestNG-tests-3] Listeners - Failed execution in TestCase clickContactsLink
+[INFO ] 2022-01-06 16:11:44.962 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 16:11:45.324 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 16:11:46.536 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 16:11:51.064 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 16:11:52.148 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 16:46:02.314 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 16:46:02.314 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 16:46:02.314 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 16:46:02.323 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 16:46:02.323 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 16:46:02.323 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 16:46:02.325 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 16:46:02.325 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 16:46:02.325 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 16:46:11.335 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 16:46:11.377 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 16:46:11.390 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 16:46:11.531 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 16:46:22.370 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 16:46:24.304 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 16:46:26.423 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 16:46:26.645 [TestNG-tests-3] Listeners - Failed execution in TestCase clickContactsLink
+[INFO ] 2022-01-06 16:46:27.495 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 16:46:27.641 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 16:46:28.801 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 16:46:34.143 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 16:46:35.205 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 18:04:38.572 [main] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 18:04:38.585 [main] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:04:38.587 [main] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:04:50.353 [main] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 18:04:50.569 [main] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:05:00.833 [main] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:05:04.140 [main] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:05:09.388 [main] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:05:12.387 [main] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 18:15:26.692 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 18:15:26.692 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 18:15:26.692 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 18:15:26.704 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:15:26.704 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:15:26.704 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:15:26.706 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:15:26.706 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:15:26.706 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:15:37.688 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 18:15:37.688 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 18:15:37.693 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 18:15:37.854 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:15:37.926 [TestNG-tests-1] Listeners - Failed execution in TestCase basePageNavigaton
+[INFO ] 2022-01-06 18:15:38.329 [TestNG-tests-1] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:15:38.333 [TestNG-tests-1] Listeners - Failed execution in TestCase basePageNavigaton
+[INFO ] 2022-01-06 18:15:38.601 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 18:15:48.877 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 18:15:48.928 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 18:15:49.203 [TestNG-tests-3] Listeners - Failed execution in TestCase clickContactsLink
+[INFO ] 2022-01-06 18:15:49.271 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 18:15:49.881 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 18:19:06.866 [main] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 18:19:06.875 [main] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:19:06.876 [main] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:19:12.543 [main] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 18:19:12.687 [main] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:19:24.653 [main] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:19:30.596 [main] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:19:39.756 [main] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:19:45.611 [main] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 18:32:06.806 [main] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 18:32:06.814 [main] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:32:06.815 [main] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:32:13.085 [main] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 18:32:13.207 [main] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:32:43.875 [main] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:32:47.042 [main] HomePageTestCase - Going to url https://qaclickacademy.com/
+[INFO ] 2022-01-06 18:32:58.223 [main] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:33:00.992 [main] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 18:34:33.473 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 18:34:33.473 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 18:34:33.473 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 18:34:33.485 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:34:33.485 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:34:33.485 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 18:34:33.487 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:34:33.487 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:34:33.490 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 18:34:44.399 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 18:34:44.408 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 18:34:44.449 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 18:34:44.642 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 18:35:11.803 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 18:35:13.240 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 18:35:15.557 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 18:35:16.746 [TestNG-tests-2] Listeners - Failed execution in TestCase validateFeaturedTitle
+[INFO ] 2022-01-06 18:35:18.096 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 18:35:19.384 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:35:22.288 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 18:35:33.702 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 18:35:36.579 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 19:51:16.524 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 19:51:16.524 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 19:51:16.524 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 19:51:16.571 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 19:51:16.571 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 19:51:16.572 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 19:51:16.574 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 19:51:16.574 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 19:51:16.576 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 19:51:47.595 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 19:51:47.595 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 19:51:47.595 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 19:51:49.164 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 19:52:28.705 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 19:52:29.216 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 19:52:32.902 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 19:52:33.742 [TestNG-tests-2] Listeners - Failed execution in TestCase validateFeaturedTitle
+[INFO ] 2022-01-06 19:52:36.086 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 19:52:43.722 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 19:52:49.666 [TestNG-tests-1] Listeners - Failed execution in TestCase basePageNavigaton
+[INFO ] 2022-01-06 19:52:49.899 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 19:53:05.549 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 19:53:08.767 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 20:00:41.336 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 20:00:41.336 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 20:00:41.336 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 20:00:41.352 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:00:41.352 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:00:41.352 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:00:41.354 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:00:41.354 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:00:41.354 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:00:55.812 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 20:00:55.843 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 20:00:55.872 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 20:00:56.084 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 20:01:42.178 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 20:01:43.964 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 20:01:44.963 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 20:01:46.759 [TestNG-tests-2] Listeners - Failed execution in TestCase validateFeaturedTitle
+[INFO ] 2022-01-06 20:01:47.859 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 20:01:52.270 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 20:01:58.258 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 20:02:12.696 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 20:02:16.978 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 20:38:24.902 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 20:38:24.902 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 20:38:24.902 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 20:38:24.914 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:38:24.914 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:38:24.914 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:38:24.916 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:38:24.916 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:38:24.919 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:38:37.499 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 20:38:37.544 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 20:38:37.561 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 20:38:37.823 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 20:39:16.330 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 20:39:16.806 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 20:39:23.987 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 20:39:24.983 [TestNG-tests-2] Listeners - Failed execution in TestCase validateFeaturedTitle
+[INFO ] 2022-01-06 20:39:29.011 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 20:39:34.860 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 20:39:39.434 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 20:39:52.175 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 20:39:54.885 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 20:45:32.203 [TestNG-tests-2] HomePageTestCase2 - Initializing the driver
+[INFO ] 2022-01-06 20:45:32.203 [TestNG-tests-1] HomePageTestCase - Initializing the driver
+[INFO ] 2022-01-06 20:45:32.203 [TestNG-tests-3] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 20:45:32.215 [TestNG-tests-3] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:45:32.215 [TestNG-tests-2] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:45:32.215 [TestNG-tests-1] Base - Fetching file from properties file
+[INFO ] 2022-01-06 20:45:32.217 [TestNG-tests-2] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:45:32.218 [TestNG-tests-1] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:45:32.220 [TestNG-tests-3] Base - Setting chrome driver property
+[INFO ] 2022-01-06 20:47:13.518 [TestNG-tests-3] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 20:47:13.518 [TestNG-tests-2] HomePageTestCase2 - After driver Initialization
+[INFO ] 2022-01-06 20:47:13.519 [TestNG-tests-1] HomePageTestCase - After driver Initialization
+[INFO ] 2022-01-06 20:47:13.688 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 20:47:50.553 [TestNG-tests-2] HomePageTestCase2 - Inside validateFeaturedTitle test
+[INFO ] 2022-01-06 20:47:53.845 [TestNG-tests-3] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 20:47:56.278 [TestNG-tests-3] HomePageTestCase3 - Inside tearDown() test
+[INFO ] 2022-01-06 20:47:56.874 [TestNG-tests-2] Listeners - Failed execution in TestCase validateFeaturedTitle
+[INFO ] 2022-01-06 20:48:07.504 [TestNG-tests-1] Listeners - Failed execution in TestCase basePageNavigaton
+[INFO ] 2022-01-06 20:48:07.947 [TestNG-tests-2] HomePageTestCase2 - Inside tearDown() test
+[INFO ] 2022-01-06 20:48:31.399 [TestNG-tests-1] HomePageTestCase - Going to url https://www.rahulshettyacademy.com/
+[INFO ] 2022-01-06 20:49:16.223 [TestNG-tests-1] HomePageTestCase - Inside basePageNavigaton
+[INFO ] 2022-01-06 20:49:21.457 [TestNG-tests-1] HomePageTestCase - Inside tearDown() test
+[INFO ] 2022-01-06 21:27:24.214 [main] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 21:27:24.222 [main] Base - Fetching file from properties file
+[INFO ] 2022-01-06 21:32:11.123 [main] HomePageTestCase3 - Initializing the driver in HomePageTestCase3
+[INFO ] 2022-01-06 21:32:11.131 [main] Base - Fetching file from properties file
+[INFO ] 2022-01-06 21:32:11.133 [main] Base - Setting chrome driver property
+[INFO ] 2022-01-06 21:32:19.147 [main] HomePageTestCase3 - After driver Initialization
+[INFO ] 2022-01-06 21:32:26.604 [main] HomePageTestCase3 - Inside clickContactsLink() test
+[INFO ] 2022-01-06 21:32:27.118 [main] HomePageTestCase3 - Inside tearDown() test

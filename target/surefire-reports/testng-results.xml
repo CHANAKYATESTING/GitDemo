@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78593" started-at="2022-01-07T09:20:51 AEST" finished-at="2022-01-07T09:22:10 AEST">
+    <groups>
+    </groups>
+    <test name="Testing the contacts List" duration-ms="45989" started-at="2022-01-07T09:20:51 AEST" finished-at="2022-01-07T09:21:37 AEST">
+      <class name="org.chanakya.E2EProject.HomePageTestCase3">
+        <test-method status="PASS" signature="init()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase3@32115b28]" name="init" is-config="true" duration-ms="10279" started-at="2022-01-07T09:20:51 AEST" finished-at="2022-01-07T09:21:01 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="clickContactsLink()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase3@32115b28]" name="clickContactsLink" duration-ms="33258" started-at="2022-01-07T09:21:02 AEST" finished-at="2022-01-07T09:21:35 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContactsLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase3@32115b28]" name="tearDown" is-config="true" duration-ms="2019" started-at="2022-01-07T09:21:35 AEST" finished-at="2022-01-07T09:21:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.chanakya.E2EProject.HomePageTestCase3 -->
+    </test> <!-- Testing the contacts List -->
+    <test name="Testing the data provider" duration-ms="78593" started-at="2022-01-07T09:20:51 AEST" finished-at="2022-01-07T09:22:10 AEST">
+      <class name="org.chanakya.E2EProject.HomePageTestCase">
+        <test-method status="PASS" signature="init()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase@13d73f29]" name="init" is-config="true" duration-ms="10268" started-at="2022-01-07T09:20:51 AEST" finished-at="2022-01-07T09:21:01 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="basePageNavigaton(java.lang.String,java.lang.String)[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase@13d73f29]" name="basePageNavigaton" duration-ms="44843" started-at="2022-01-07T09:21:02 AEST" data-provider="getData" finished-at="2022-01-07T09:21:47 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chanakyaraju@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chanakyaraju]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigaton -->
+        <test-method status="PASS" signature="basePageNavigaton(java.lang.String,java.lang.String)[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase@13d73f29]" name="basePageNavigaton" duration-ms="21473" started-at="2022-01-07T09:21:47 AEST" data-provider="getData" finished-at="2022-01-07T09:22:08 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anu@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chanakyaraju]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigaton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.chanakya.E2EProject.HomePageTestCase@13d73f29]" name="tearDown" is-config="true" duration-ms="1588" started-at="2022-01-07T09:22:08 AEST" finished-at="2022-01-07T09:22:10 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.chanakya.E2EProject.HomePageTestCase -->
+    </test> <!-- Testing the data provider -->
+  </suite> <!-- Suite -->
+</testng-results>
